@@ -1,0 +1,9 @@
+age,income_level,num_luxury_items,wtp_restoration,wtp_authentication,sustainability_score,adoption_intent,gender,brand_preference
+48,4,5,1772,329,4,Very likely,Female,Dior
+34,2,7,2568,252,1,Neutral,Male,Gucci
+27,2,9,2082,371,4,Likely,Male,LV
+40,2,7,2182,417,3,Very unlikely,Female,LV
+38,4,9,1509,359,1,Very likely,Male,Hermès
+29,3,3,1900,300,2,Unlikely,Female,Chanel
+45,5,6,2300,400,5,Very likely,Male,Gucci
+50,1,2,1450,280,2,Neutral,Female,Dior

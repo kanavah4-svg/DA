@@ -1,0 +1,6 @@
+
+streamlit==1.51.0
+pandas
+matplotlib
+seaborn
+scikit-learn
